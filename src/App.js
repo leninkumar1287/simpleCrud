@@ -1,7 +1,8 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navigation from './components/Navigation'
-import Home from './Home'
+import Home from './components/Home'
+import Products from './components/Products'
 export default function App() {
   return (
     <div>
@@ -9,9 +10,9 @@ export default function App() {
         <Navigation />
         <section className='container'>
           <Routes>
-            <Route path='/' component={<Home />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/products" element={<Products />} />
           </Routes>
-
         </section>
       </Router>
     </div>
