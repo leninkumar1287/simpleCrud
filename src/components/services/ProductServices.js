@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API = ""
+const API = "http://localhost:3003/products"
 
 function getProducts() {
     return axios.get(`${API}`)
