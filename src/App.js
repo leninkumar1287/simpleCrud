@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navigation from './components/Navigation'
 import Home from './components/Home'
-import Products from './components/Products'
+import AddNewProducts from './components/AddNewProducts'
 export default function App() {
   return (
     <div>
@@ -11,7 +11,8 @@ export default function App() {
         <section className='container'>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/products" element={<Products />} />
+            <Route path="/home" element={<Home />} />
+            <Route path='/addproduct' element={<AddNewProducts />} />
           </Routes>
         </section>
       </Router>

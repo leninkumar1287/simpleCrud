@@ -1,34 +1,39 @@
 {
-    "products": [
-        {
-            "productName": "puma shoes",
-            "Price": 1300,
-            "quantity": 7,
-            "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
-        },
-        {
-            "productName": "stumper Ball",
-            "Price": 400,
-            "quantity": 3,
-            "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
-        },
-        {
-            "productName": "Sunny stump",
-            "Price": 2000,
-            "quantity": 1,
-            "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
-        },
-        {
-            "productName": "adidass glove",
-            "Price": 800,
-            "quantity": 10,
-            "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
-        },
-        {
-            "productName": "Nike Bat",
-            "Price": 5000,
-            "quantity": 5,
-            "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "productName": "puma shoes",
+      "price": 1300,
+      "quantity": 7,
+      "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "stumper Ball",
+      "price": 400,
+      "quantity": 3,
+      "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Sunny stump",
+      "price": 2000,
+      "quantity": 1,
+      "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "adidass glove",
+      "price": 800,
+      "quantity": 10,
+      "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Nike Bat",
+      "price": 5000,
+      "quantity": 5,
+      "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
+    }
+  ]
 }
