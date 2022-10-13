@@ -34,6 +34,27 @@
       "price": 5000,
       "quantity": 5,
       "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
+    },
+    {
+      "productName": "mypic",
+      "price": "sad",
+      "quantity": "1",
+      "productImage": "http://localhost:1234/media/uploads/profilePhoto/lenin.jpeg",
+      "id": 6
+    },
+    {
+      "productName": "",
+      "price": "",
+      "quantity": "",
+      "productImage": "",
+      "id": 7
+    },
+    {
+      "productName": "",
+      "price": "",
+      "quantity": "",
+      "productImage": "",
+      "id": 8
     }
   ]
 }

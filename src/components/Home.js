@@ -23,6 +23,7 @@ export default function Home() {
                 id : {product.id} <br />
                 Quantity : {product.quantity} </p>
             </div>
+            <Link className='btn btn-primary' to={`/edit/${product.id}`}> update</Link>
           </div>
         )}</div>
       </div>

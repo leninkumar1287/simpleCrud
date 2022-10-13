@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navigation from './components/Navigation'
 import Home from './components/Home'
 import AddNewProducts from './components/AddNewProducts'
+import EditAndUpdate from './components/EditAndUpdate'
 export default function App() {
   return (
     <div>
@@ -13,6 +14,7 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/home" element={<Home />} />
             <Route path='/addproduct' element={<AddNewProducts />} />
+            <Route path='/edit/:id' element={<EditAndUpdate />} />
           </Routes>
         </section>
       </Router>
