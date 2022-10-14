@@ -16,7 +16,7 @@ function addNewProducts(data) {
 }
 
 function updateProductDetails(id,data) {
-    return axios.put(`${API}${id}`,data)
+    return axios.put(`${API}/${id}`,data)
 }
 
 function deleteProduct(id) {

@@ -1,11 +1,11 @@
 {
   "products": [
     {
-      "id": 1,
-      "productName": "puma shoes",
-      "price": 1300,
-      "quantity": 7,
-      "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
+      "productName": "",
+      "price": "",
+      "quantity": "",
+      "productImage": "l;f2",
+      "id": 1
     },
     {
       "id": 2,
@@ -36,10 +36,6 @@
       "productImage": "https://www.shutterstock.com/image-photo/cricket-bat-isolated-on-white-600w-1793608735.jpg"
     },
     {
-      "productName": "mypic",
-      "price": "sad",
-      "quantity": "1",
-      "productImage": "http://localhost:1234/media/uploads/profilePhoto/lenin.jpeg",
       "id": 6
     },
     {
@@ -48,13 +44,6 @@
       "quantity": "",
       "productImage": "",
       "id": 7
-    },
-    {
-      "productName": "",
-      "price": "",
-      "quantity": "",
-      "productImage": "",
-      "id": 8
     }
   ]
 }
