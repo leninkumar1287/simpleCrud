@@ -1,11 +1,13 @@
 {
   "products": [
     {
-      "productName": "",
-      "price": "",
-      "quantity": "",
-      "productImage": "l;f2",
-      "id": 1
+      "productName": "LEINUMAR",
+      "price": "ASDASDASDAS",
+      "quantity": "12DASDASDASD",
+      "productImage": "l;f2ASDASD",
+      "id": 1,
+      "name": "leninkumar",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png"
     },
     {
       "id": 2,
